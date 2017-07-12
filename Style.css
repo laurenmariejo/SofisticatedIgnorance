@@ -2,7 +2,13 @@
   font-family: Georgia;
   background: #f99706;
 }
-h1 {
-  color: White;
+.main {
+  position:relative;
 }
+h1 {
+  position:absolute;
+  top: 200px;
+  left: 0;
+}
+
 
