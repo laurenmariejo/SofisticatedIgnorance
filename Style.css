@@ -11,4 +11,10 @@ h1 {
   left: 0;
 }
 
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+
 
