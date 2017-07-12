@@ -6,15 +6,12 @@
   position:relative;
 }
 h1 {
+  color: white;
   position:absolute;
   top: 200px;
   left: 0;
 }
 
-img.center {
-  display: block;
-  margin: 0 auto;
-}
 
 
 
